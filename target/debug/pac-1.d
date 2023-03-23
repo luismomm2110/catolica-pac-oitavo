@@ -1,1 +1,0 @@
-/home/luismomm/Documents/Graduação/23-1/PAC/catolica-pac-oitavo/pac-1/target/debug/pac-1: /home/luismomm/Documents/Graduação/23-1/PAC/catolica-pac-oitavo/pac-1/src/lib.rs /home/luismomm/Documents/Graduação/23-1/PAC/catolica-pac-oitavo/pac-1/src/main.rs
